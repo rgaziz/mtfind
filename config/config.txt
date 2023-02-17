@@ -1,0 +1,4 @@
+log_level 10
+search_key  ?test?
+thread_count 4
+data_file_path input.txt
